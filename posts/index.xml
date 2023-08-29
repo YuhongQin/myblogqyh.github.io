@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on QYH</title>
+    <link>https://YuhongQin.github.io/posts/</link>
+    <description>Recent content in Posts on QYH</description>
+    <image>
+      <url>https://YuhongQin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://YuhongQin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Nov 2022 15:07:17 +0800</lastBuildDate><atom:link href="https://YuhongQin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One</title>
+      <link>https://YuhongQin.github.io/posts/one/</link>
+      <pubDate>Sat, 26 Nov 2022 15:07:17 +0800</pubDate>
+      
+      <guid>https://YuhongQin.github.io/posts/one/</guid>
+      <description>666</description>
+    </item>
+    
+    <item>
+      <title>Qwq</title>
+      <link>https://YuhongQin.github.io/posts/qwq/</link>
+      <pubDate>Sat, 26 Nov 2022 14:23:38 +0800</pubDate>
+      
+      <guid>https://YuhongQin.github.io/posts/qwq/</guid>
+      <description>Patrickpwq qwqwqwqwqwq</description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://YuhongQin.github.io/posts/233/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://YuhongQin.github.io/posts/233/</guid>
+      <description>666</description>
+    </item>
+    
+  </channel>
+</rss>
